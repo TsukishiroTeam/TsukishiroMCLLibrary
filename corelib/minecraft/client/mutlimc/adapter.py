@@ -1,0 +1,1 @@
+from ..manage.abc import BasicAdapter
